@@ -7,8 +7,6 @@
 - Enjoy building scalable, full-stack applications and solving challenging software engineering problems.
 - Studied Deep Reinforcement Learning, Computer Vision, Natural Language Processing, and Software Engineering through coursework at Stanford University and UC Santa Cruz.
 
----
-
 ## Tech Stack
 
 ### Programming Languages
@@ -78,8 +76,6 @@
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
-
----
 
 ## GitHub Stats
 
