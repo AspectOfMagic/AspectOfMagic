@@ -1,13 +1,11 @@
 
 ## About Me
 
-Hi, I'm Jason! I'm a Computer Science graduate from UC Santa Cruz with a passion for **Artificial Intelligence, Robotics, Machine Learning, and Software Engineering**.
-
 - Interested in developing intelligent systems that can learn, adapt, and interact with the physical world.
-- Exploring **Reinforcement Learning (RL)** and **Meta-RL** for robotic manipulation and autonomous decision-making.
-- Experienced in **AI/ML research**, including large language models (LLMs), retrieval-augmented generation (RAG), and neurosymbolic AI.
+- Exploring Reinforcement Learning (RL) and Meta-RL for robotic manipulation and autonomous decision-making.
+- Experienced in AI/ML research, including large language models (LLMs), retrieval-augmented generation (RAG), and neurosymbolic AI.
 - Enjoy building scalable, full-stack applications and solving challenging software engineering problems.
-- Earned an **Artificial Intelligence Professional Certificate from Stanford University**, with coursework in Deep Reinforcement Learning, Computer Vision, and Robotics Software.
+- Studied Deep Reinforcement Learning, Computer Vision, Natural Language Processing, and Software Engineering through coursework at Stanford University and UC Santa Cruz.
 
 ---
 
@@ -32,7 +30,6 @@ Hi, I'm Jason! I'm a Computer Science graduate from UC Santa Cruz with a passion
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MuJoCo-555555?style=flat" />
   <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=flat" />
 </p>
@@ -43,7 +40,7 @@ Hi, I'm Jason! I'm a Computer Science graduate from UC Santa Cruz with a passion
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
@@ -70,12 +67,12 @@ Hi, I'm Jason! I'm a Computer Science graduate from UC Santa Cruz with a passion
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat" />
 </p>
 
 ### Testing
 
 <p>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
